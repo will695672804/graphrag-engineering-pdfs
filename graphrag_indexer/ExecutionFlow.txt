@@ -1,0 +1,50 @@
+FINAL execution plan
+# Phase 0 — build
+python index_documents.py
+python extractor.py
+python graph_store.py
+
+# Phase 1 — structure (NO LLM)
+python build_type_registry.py
+python infer_type_hierarchy.py
+python repair_graph_pickle.py
+
+# Phase 2 — content improvement (LLM)
+python run_improve_cycle.py
+
+# (optional repeat Phase 1 if new types emerged)
+python build_type_registry.py
+python infer_type_hierarchy.py
+python repair_graph_pickle.py
+
+# Phase 3 — evaluation
+python evaluate_strategies.py
+
+
+Why this ordering matters (intuition)
+
+If you run run_improve_cycle.py too early:
+
+LLM hallucinates structure
+
+You get schema drift
+
+Communities fragment
+
+If you run it after structure:
+
+LLM fills real gaps
+
+Ontology stabilizes
+
+Improve-cycle converges faster
+
+Final mental model (lock this in)
+
+Phase 1 → “What kinds of things exist and how do they relate?”
+
+Phase 2 → “What facts are missing about those things?”
+
+Phase 3 → “How good are the answers?”
+
+run_improve_cycle.py is Phase 2, not Phase 1.

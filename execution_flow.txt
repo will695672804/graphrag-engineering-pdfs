@@ -1,0 +1,20 @@
+# Phase 0 — build
+python index_documents.py
+python extractor.py
+python graph_store.py
+
+# Phase 1 — structure (NO LLM)
+python build_type_registry.py
+python infer_type_hierarchy.py
+python repair_graph_pickle.py
+
+# Phase 2 — content improvement (LLM)
+python run_improve_cycle.py
+
+# (optional repeat Phase 1 if new types emerged)
+python build_type_registry.py
+python infer_type_hierarchy.py
+python repair_graph_pickle.py
+
+# Phase 3 — evaluation
+python evaluate_strategies.py

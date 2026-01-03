@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv
+venv/
+ENV/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated GraphRAG artifacts
+graphrag_indexer/index/
+graphrag_indexer/graph_visuals/
+graphrag_indexer/documentation/
+scripts/documentation/
+
+# Logs / history
+graphrag_indexer/index/history/
+
+# Data (PDFs should not be committed)
+data/documents/
+
+# Temporary files
+*.log
+*.tmp
